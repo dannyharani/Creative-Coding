@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(35deg, blue, cyan, rgb(204, 204, 255));
+
+}
+canvas {
+  display: block;
+}
+
+
